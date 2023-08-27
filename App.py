@@ -1,1 +1,2 @@
-//Versão 0.01
+//Versão 0.02
+//Mudança mo código
